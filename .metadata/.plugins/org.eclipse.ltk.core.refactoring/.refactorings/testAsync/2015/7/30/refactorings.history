@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from プロジェクト &apos;testAsync&apos;&#x0D;&#x0A;- 元のプロジェクト: &apos;testAsync&apos;&#x0D;&#x0A;- オリジナル要素: &apos;testAsync/gen/com&apos;&#x0D;&#x0A;- サブパッケージを削除" description="要素の削除" element1="/gen&lt;com.example.testasync" element2="/gen&lt;com.example" element3="/gen&lt;com" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1437846497400" subPackages="true" version="1.0"/>
+</session>

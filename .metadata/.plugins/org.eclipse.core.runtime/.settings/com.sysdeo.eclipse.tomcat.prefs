@@ -1,0 +1,7 @@
+tomcatDir=D:/Dropbox/Dropbox/Software/pleiades/tomcat/7
+eclipse.preferences.version=1
+fixTomcatHomeBug=fixed
+contextsDir=D:/Dropbox/Dropbox/Software/pleiades/tomcat/7/conf/Catalina/localhost
+tomcatVersion=tomcatV7
+computeSourcePath=true
+tomcatConfigFile=D:/Dropbox/Dropbox/Software/pleiades/tomcat/7/conf/server.xml

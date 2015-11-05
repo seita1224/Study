@@ -1,0 +1,9 @@
+package seita;
+
+public class Study1_1 {
+
+	public Study1_1() {
+		// TODO 自動生成されたコンストラクター・スタブ
+	}
+
+}
